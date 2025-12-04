@@ -4,7 +4,7 @@ This is my home page! My name is Lynn Harb and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/LynnHarb.
+My GitHub page is [LynnHarb on GitHub](https://github.com/LynnHarb).
 
 ### CPSC 120
 
