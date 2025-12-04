@@ -1,4 +1,4 @@
-# Hello World
+# Lynn Harb's Portfolio
 
 This is my home page! My name is Lynn Harb and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
